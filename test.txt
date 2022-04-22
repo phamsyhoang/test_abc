@@ -1,6 +1,6 @@
 Hello Viet nam
 
-Cai nay giu lai
+Thay dong thu 3
 Ngoc
 
 
@@ -8,3 +8,4 @@ Ngoc
 cai nay giu lai
 
 cai nay giu lai
+Giu nguyen dong nay
